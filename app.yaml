@@ -1,7 +1,4 @@
 command:
-  - npx
-  - prisma
-  - generate
-  - '&&'
   - npm
-  - start
+  - run
+  - start_dbx
