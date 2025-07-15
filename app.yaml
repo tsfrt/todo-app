@@ -1,0 +1,7 @@
+command:
+  - npx
+  - prisma
+  - generate
+  - &&
+  - npm
+  - start
