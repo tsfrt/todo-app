@@ -1,0 +1,1 @@
+npx prisma generate  && ls -ltrR && npm start

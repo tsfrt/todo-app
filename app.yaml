@@ -1,3 +1,7 @@
+command:
+  - npm
+  - run
+  - start_dbx
 env:
   - name: DATABASE_URL
     valueFrom: todo_app_cred
